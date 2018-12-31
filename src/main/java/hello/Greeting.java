@@ -1,7 +1,4 @@
-/*
- * test
- */
-package main.java.hello;
+package hello;
 
 public class Greeting {
 
